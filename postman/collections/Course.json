@@ -10,7 +10,7 @@
 			"name": "Happy Path",
 			"item": [
 				{
-					"name": "grocery status",
+					"name": "grocery status check",
 					"event": [
 						{
 							"listen": "test",
